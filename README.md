@@ -1,5 +1,6 @@
 # Forest-fire
-           One of the significant environmental concerns is wildfire. Every year thousands of hectares of land are annihilated over the world, which causes damage to 
+
+One of the significant environmental concerns is wildfire. Every year thousands of hectares of land are annihilated over the world, which causes damage to 
 the Environment. Detecting the fire in timber-producing land has become the major concern and it is the basic need to reduce the environmental loss. Advancements and 
 new techniques can be used to detect and predict the forest fire at the earliest to anticipate and recognize backwoods fires. The pattern is to incorporate 
 intelligence techniques to detect fire at an early stage. This paper presents an outline of assorted detection techniques that are used to identify wildfires in 
